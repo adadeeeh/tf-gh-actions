@@ -15,7 +15,7 @@ terraform {
     organization = "YtseJam"
 
     workspaces {
-      name = "GH-Actions"
+      name = "GH-Action"
     }
   }
 }
